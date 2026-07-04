@@ -163,6 +163,7 @@ void ShoeTableMenu()
         {
             cout << "\nInvalid Choice! Please try again.\n";
             system("color 4F");
+            system("pause");
             cout << "\a";
         }
         
